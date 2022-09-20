@@ -1,0 +1,9 @@
+{
+  "yyy": {
+    "bleu": 12.223210007009946,
+    "success": 36.84210526314866,
+    "match": 52.63157894735523,
+    "score": 56.96005211226189,
+    "result": "validation [CTR] match: 52.63  success: 36.84  bleu: 12.22    score: 56.96"
+  }
+}

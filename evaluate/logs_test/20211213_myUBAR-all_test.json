@@ -1,0 +1,23 @@
+{
+  "main": {
+    "bleu": 13.453315615965797,
+    "success": 82.0999999999918,
+    "match": 93.39999999999065,
+    "score": 101.20331561595701,
+    "result": "validation [CTR] match: 93.40  success: 82.10  bleu: 13.45    score: 101.20"
+  },
+  "mask_input": {
+    "bleu": 13.535746302660845,
+    "success": 82.19999999999177,
+    "match": 93.09999999999069,
+    "score": 101.18574630265206,
+    "result": "validation [CTR] match: 93.10  success: 82.20  bleu: 13.54    score: 101.19"
+  },
+  "experiments_all": {
+    "bleu": 10.860964096881636,
+    "success": 69.39999999999306,
+    "match": 90.19999999999098,
+    "score": 90.66096409687366,
+    "result": "validation [CTR] match: 90.20  success: 69.40  bleu: 10.86    score: 90.66"
+  }
+}

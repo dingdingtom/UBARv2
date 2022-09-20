@@ -1,0 +1,16 @@
+{
+  "mask_label": {
+    "bleu": 13.494157509273288,
+    "success": 85.0701402805526,
+    "match": 95.09018036071191,
+    "score": 103.57431782990554,
+    "result": "validation [CTR] match: 95.09  success: 85.07  bleu: 13.49    score: 103.57"
+  },
+  "p_lower_upper": {
+    "bleu": 13.243596216621443,
+    "success": 83.4669338677271,
+    "match": 93.48697394788643,
+    "score": 101.72055012442821,
+    "result": "validation [CTR] match: 93.49  success: 83.47  bleu: 13.24    score: 101.72"
+  }
+}

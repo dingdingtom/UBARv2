@@ -1,0 +1,37 @@
+{
+  "epoch1_inform-94.69%_success-84.88%_bleu-15.59_score-105.38": {
+    "bleu": 13.783018417144769,
+    "success": 84.79999999999151,
+    "match": 94.69999999999052,
+    "score": 103.53301841713579,
+    "result": "validation [CTR] match: 94.70  success: 84.80  bleu: 13.78    score: 103.53"
+  },
+  "p_lower_upper": {
+    "bleu": 13.676178174394266,
+    "success": 81.8999999999918,
+    "match": 93.59999999999063,
+    "score": 101.42617817438548,
+    "result": "validation [CTR] match: 93.60  success: 81.90  bleu: 13.68    score: 101.43"
+  },
+  "best": {
+    "bleu": 14.007646522433015,
+    "success": 84.59999999999154,
+    "match": 93.79999999999062,
+    "score": 103.2076465224241,
+    "result": "validation [CTR] match: 93.80  success: 84.60  bleu: 14.01    score: 103.21"
+  },
+  "ubar+gen": {
+    "bleu": 12.954805272850885,
+    "success": 79.899999999992,
+    "match": 93.19999999999068,
+    "score": 99.50480527284223,
+    "result": "validation [CTR] match: 93.20  success: 79.90  bleu: 12.95    score: 99.50"
+  },
+  "mask_label": {
+    "bleu": 13.984161667399372,
+    "success": 82.8999999999917,
+    "match": 94.39999999999056,
+    "score": 102.63416166739052,
+    "result": "validation [CTR] match: 94.40  success: 82.90  bleu: 13.98    score: 102.63"
+  }
+}

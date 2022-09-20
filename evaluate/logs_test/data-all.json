@@ -1,0 +1,16 @@
+{
+  "shenweizhou2": {
+    "bleu": 13.280222927050344,
+    "success": 84.06813627253666,
+    "match": 93.7875751502912,
+    "score": 102.20807863846429,
+    "result": "validation [CTR] match: 93.79  success: 84.07  bleu: 13.28    score: 102.21"
+  },
+  "yangyy": {
+    "bleu": 14.444976225023456,
+    "success": 87.37474949898923,
+    "match": 93.38677354708483,
+    "score": 104.82573774806048,
+    "result": "validation [CTR] match: 93.39  success: 87.37  bleu: 14.44    score: 104.83"
+  }
+}

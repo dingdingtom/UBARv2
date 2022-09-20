@@ -1,0 +1,9 @@
+{
+  "yangyy": {
+    "bleu": 16.923352232989437,
+    "success": 84.59627329191494,
+    "match": 93.54037267079582,
+    "score": 105.99167521434481,
+    "result": "validation [CTR] match: 93.54  success: 84.60  bleu: 16.92    score: 105.99"
+  }
+}

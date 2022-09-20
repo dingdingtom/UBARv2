@@ -1,0 +1,16 @@
+{
+  "mask_input": {
+    "bleu": 13.232442774380834,
+    "success": 84.36873747494144,
+    "match": 94.38877755510076,
+    "score": 102.61120028940194,
+    "result": "validation [CTR] match: 94.39  success: 84.37  bleu: 13.23    score: 102.61"
+  },
+  "experiments_all": {
+    "bleu": 10.314249912805018,
+    "success": 71.04208416832955,
+    "match": 88.97795591181473,
+    "score": 90.32426995287716,
+    "result": "validation [CTR] match: 88.98  success: 71.04  bleu: 10.31    score: 90.32"
+  }
+}
